@@ -1,0 +1,10 @@
+*.cmo
+*.cmi
+*.byte
+_build
+.merlin
+myocamlbuild.ml
+setup.data
+setup.log
+setup.ml
+_tags
